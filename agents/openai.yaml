@@ -1,0 +1,7 @@
+interface:
+  display_name: "宣传文案生成助手"
+  short_description: "用选择题追问受众渠道语气等关键信息，再生成多渠道宣传文案"
+  default_prompt: "Use $promo-copywriter-cn to draft Chinese promotional copy by first asking multiple-choice questions about audience, channel, action, tone, and required details."
+
+policy:
+  allow_implicit_invocation: true
